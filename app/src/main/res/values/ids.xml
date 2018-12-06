@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvName" type="id"></item>
+    <item name="tvDesc" type="id"></item>
+    <item name="imgPoster" type="id"></item>
+    <item name="img_football" type="id"></item>
+</resources>
